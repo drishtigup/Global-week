@@ -1,2 +1,2 @@
 # Global-week
-Graphical Application using Python
+Graphical Application for GPS Calculation using Python
